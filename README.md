@@ -1,1 +1,2 @@
 This dataset is part of the following work: Paraskevi Platanou, John Pavlopoulos, and Georgios Papaioannou. 2022. Handwritten Paleographic Greek Text Recognition: A Century-Based Approach. In Proceedings of the "Thirteenth Language Resources and Evaluation Conference", pages 6585–6589, Marseille, France. European Language Resources Association.
+© 2013 Bodleian Libraries, used under a Creative Commons Attribution- Noncommercial-ShareAlike licence: http://creativecommons.org/licenses/by-nc-sa/3.0/
